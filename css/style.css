@@ -40,6 +40,7 @@ img{
     color: rgb(125, 3, 3);
     font-style: sans-serif;
     font-size: 20px;
+    text-decoration: none;
 }
 .item:hover{
     background-color: rgb(203, 203, 203);
